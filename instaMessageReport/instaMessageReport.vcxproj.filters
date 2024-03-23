@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="instaMessageReport.cpp">
+    <ClCompile Include="instaMessageReport.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
